@@ -34,7 +34,7 @@ Materiał każdego z bloków posiada mapę normalną oraz mapę wysokości:
 Poza poruszaniem graczem (WSAD) oraz kamerą (ruch myszki) zaimplementowany został system unikania kolizji kamery z obiektami: obiekt (gracz) zawsze będzie widoczny.
 
 ## Filmy 
-
+* <a href="https://drive.google.com/file/d/1ZkmI83RbI6XpTiDHjogiVJ1BQHimOlXl/view?usp=sharing" target="_blank">example</a>
 * [Bump mapping](https://drive.google.com/file/d/1ZkmI83RbI6XpTiDHjogiVJ1BQHimOlXl/view?usp=sharing){:target="_blank"}
 * [Unikanie kolizji](https://drive.google.com/file/d/15dY9f2fY8lUrAELRsmsiSyUtqV0akpRv/view?usp=sharing){:target="_blank"}
 * [Działanie pułapki](https://drive.google.com/file/d/1ecXHRgmkctksZoC1tWcJ99XbPcDVoiiD/view?usp=sharing){:target="_blank"}
