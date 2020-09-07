@@ -35,6 +35,6 @@ Poza poruszaniem graczem (WSAD) oraz kamerą (ruch myszki) zaimplementowany zost
 
 ## Filmy 
 
-* [Bump mapping](https://drive.google.com/file/d/1ZkmI83RbI6XpTiDHjogiVJ1BQHimOlXl/view?usp=sharing)
-* [Unikanie kolizji](https://drive.google.com/file/d/15dY9f2fY8lUrAELRsmsiSyUtqV0akpRv/view?usp=sharing)
-* [Działanie pułapki](https://drive.google.com/file/d/1ecXHRgmkctksZoC1tWcJ99XbPcDVoiiD/view?usp=sharing)
+* [Bump mapping](https://drive.google.com/file/d/1ZkmI83RbI6XpTiDHjogiVJ1BQHimOlXl/view?usp=sharing){:target="_blank"}
+* [Unikanie kolizji](https://drive.google.com/file/d/15dY9f2fY8lUrAELRsmsiSyUtqV0akpRv/view?usp=sharing){:target="_blank"}
+* [Działanie pułapki](https://drive.google.com/file/d/1ecXHRgmkctksZoC1tWcJ99XbPcDVoiiD/view?usp=sharing){:target="_blank"}
