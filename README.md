@@ -1,4 +1,4 @@
-# simple-Unity-game
+# Simple-Unity-game
 
 ![preview 1](./images/image1.png)
 \
